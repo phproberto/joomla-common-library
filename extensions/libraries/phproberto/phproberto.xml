@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" method="upgrade" version="3.7">
+	<name>Phproberto - Common</name>
+	<libraryname>phproberto</libraryname>
+	<creationDate>June 2017</creationDate>
+	<author>Roberto Segura López</author>
+	<authorEmail>roberto@phproberto.com</authorEmail>
+	<authorUrl>www.phproberto.com</authorUrl>
+	<copyright>Copyright (C) 2017 Roberto Segura López. All rights reserved.</copyright>
+	<license>GNU/GPL 2, http://www.gnu.org/licenses/gpl-2.0.htm</license>
+	<version>1.0.0</version>
+	<description>Library for fast module development.</description>
+	<files>
+		<folder>language</folder>
+		<folder>vendor</folder>
+		<filename>library.php</filename>
+		<filename>phproberto.xml</filename>
+	</files>
+</extension>

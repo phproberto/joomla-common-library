@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "cce935996bf543acde3d97ceea9414ef",
+    "content-hash": "64b849e3cf74cd700b1ea173d57d7995",
+    "packages": [
+        {
+            "name": "phproberto/joomla-common",
+            "version": "v0.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phproberto/joomla-common.git",
+                "reference": "2b6c41fb071f5b0d0566aac3bcfa9e874627c9ce"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phproberto/joomla-common/zipball/2b6c41fb071f5b0d0566aac3bcfa9e874627c9ce",
+                "reference": "2b6c41fb071f5b0d0566aac3bcfa9e874627c9ce",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^4.8.35"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Phproberto\\Joomla\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Roberto Segura López",
+                    "email": "roberto@phproberto.com",
+                    "homepage": "http://phproberto.com"
+                }
+            ],
+            "description": "Common libraries to interact with Joomla!",
+            "time": "2017-06-20 12:23:40"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.4.0"
+    },
+    "platform-dev": []
+}

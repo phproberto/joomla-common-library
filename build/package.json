@@ -1,0 +1,29 @@
+{
+  "name": "joomla-common-library",
+  "version": "1.0.0",
+  "description": "Common libraries to interact with Joomla!",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-composer": "^0.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phproberto/joomla-common-library"
+  },
+  "keywords": [
+    "joomla",
+    "module"
+  ],
+  "author": "Roberto Segura <roberto@phproberto.com>",
+  "license": "GPL-2.0"
+}

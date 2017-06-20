@@ -1,0 +1,9 @@
+{
+	"name": "phproberto/joomla-module-library",
+	"description": "Common libraries to interact with Joomla!",
+	"license": "GPL-2.0+",
+	"require": {
+		"php": ">=5.4.0",
+		"phproberto/joomla-common": "^0.0.1"
+	}
+}
